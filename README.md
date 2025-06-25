@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 A passionate Frontend & Android Developer with a love for UI/UX Design.<br>🔧 Currently exploring the world of backend development using MySQL.<br>📱 I create clean and responsive Android apps, and craft beautiful UI designs using Figma.<br>💡 Always eager to learn new tech and build cool projects.<br>🌱 Starting my journey into Full-Stack soon with MERN Stack.
+🎓 A passionate Full-Stack & Android Developer with a love for UI/UX Design.<br>📱 I create clean and responsive Android apps, and craft beautiful UI designs using Figma.<br>💡 Always eager to learn new tech and build cool projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/hari-prashath-22032005h) 
