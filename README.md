@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 A passionate Full-Stack & Android Developer with a love for UI/UX Design.<br>📱 I create clean and responsive Android apps, and craft beautiful UI designs using Figma.<br>💡 Always eager to learn new tech and build cool projects.
+🎓 A passionate Full-Stack & Android Developer with a love for UI/UX Design.<br>📱 I create clean and responsive Web Applications, Android apps, and craft beautiful UI designs using Figma.<br>💡 Always eager to learn new tech and build cool projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/hari-prashath-22032005h) 
